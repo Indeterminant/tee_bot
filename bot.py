@@ -9,7 +9,7 @@ bot = commands.Bot(command_prefix='t_', case_insensitive=True)
 
 bot.remove_command('help')
 
-TOKEN = 'NzAzNDMyMDE5NTIyMjI0MTY5.Xs3DfQ.a_0AdPf1-tiupw2A5vC-zMJ6AXc'
+TOKEN = 'get bamboozled you normie'
 
 helpinfo = """```Prefix: t_```
  My commands are `case insensitive`, and they also work in DMs.
