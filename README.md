@@ -1,4 +1,17 @@
 # tee_bot
-A simple bot that is here for the sake of me learning how to code and AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+A simple discord.py bot with utility commands, math commands, a few fun functions, and some compiled Tetris resources. </br>
 
-this repository is just here for the sake of backing stuff up in case my toaster laptop hates me
+Utility:
+reminder
+choose
+random number generator (rng)
+generate color from hex code
+
+Math:
+addition, subtraction, multiplication, division, exponent, modulus, average, trigonometry (the six basic operations)
+
+Tetris:
+
+
+this list to be updated because i am lazy
+
